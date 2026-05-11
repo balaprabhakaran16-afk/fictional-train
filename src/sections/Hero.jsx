@@ -29,7 +29,7 @@ function Hero() {
           Bala
           <br />
 
-          Prabhakaran.
+          Prabhakaran M
 
         </h1>
 
@@ -55,7 +55,7 @@ function Hero() {
           <div className="w-10 h-[1px] bg-slate-700"></div>
 
           <a
-            href="/resume.pdf"
+            href="/resume.jpeg"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-cyan-400 transition duration-300"

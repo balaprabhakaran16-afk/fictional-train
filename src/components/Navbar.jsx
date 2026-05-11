@@ -10,7 +10,7 @@ function Navbar() {
             href="/"
             className="text-2xl font-bold tracking-tight"
           >
-            Bala Prabhakaran
+            Bala Prabhakaran M
           </a>
 
           <ul className="hidden md:flex items-center gap-10 text-sm font-medium text-slate-300">

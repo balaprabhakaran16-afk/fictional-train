@@ -55,7 +55,7 @@ function About() {
               </span>
 
               <span>
-                Tamil Nadu, India
+                Tirunelveli, Tamil Nadu, India
               </span>
             </div>
 
